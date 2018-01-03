@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "44551673970",
+    "firebase_url": "https://kabarkomunitas-2af9a.firebaseio.com",
+    "project_id": "kabarkomunitas-2af9a",
+    "storage_bucket": "kabarkomunitas-2af9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44551673970:android:ba0df0495e59d681",
+        "android_client_info": {
+          "package_name": "com.example.ervin.kabarkomunitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44551673970-0p04jj23h9i9fcn83eaethu9ifonqhff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7Z9Xiyds5YM_DhPoRTHGzPWxywn2AXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

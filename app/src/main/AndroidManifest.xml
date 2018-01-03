@@ -20,7 +20,8 @@
         <activity android:name=".koma" />
         <activity android:name=".foto" />
         <activity android:name=".PopActivity" />
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SignupActivity"></activity>
     </application>
 
 </manifest>

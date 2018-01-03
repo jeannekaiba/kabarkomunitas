@@ -34,7 +34,7 @@ Button sub;
         sub.setAnimation(frombottom);
         iv.setAnimation(fromtop);
         sub.setTypeface(tf3);
-        final Intent i = new Intent(this,LoginActivity.class);
+        final Intent i = new Intent(this,MainActivity.class);
         Thread timer = new Thread() {
             public void run() {
                 try {

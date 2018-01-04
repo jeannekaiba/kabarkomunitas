@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android\\KabarKomunitas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_today_black_24dp.png",
+        "source": "D:\\Android\\KabarKomunitas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\KabarKomunitas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_date_range_black_24dp.png",
+        "source": "D:\\Android\\KabarKomunitas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_date_range_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\KabarKomunitas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_announcement_black_24dp.png",
+        "source": "D:\\Android\\KabarKomunitas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_announcement_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\KabarKomunitas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_access_time_black_24dp.png",
+        "source": "D:\\Android\\KabarKomunitas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\KabarKomunitas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_local_offer_black_24dp.png",
+        "source": "D:\\Android\\KabarKomunitas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_offer_black_24dp.png"
+    }
+]

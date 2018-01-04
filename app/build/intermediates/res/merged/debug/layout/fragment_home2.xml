@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:orientation="vertical"
+tools:context="com.example.ervin.kabarkomunitas.Home">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardView">
+        <RelativeLayout
+            android:id="@+id/menu1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:background="#4e8b4ddc">
+            <ImageButton
+                android:id="@+id/image"
+                android:layout_width="200dp"
+                android:layout_height="150dp"
+                android:background="#8b4ddc"
+                android:src="@drawable/amofix"
+                />
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_toRightOf="@+id/image"
+                android:text="First Meet Amikom Music Organization (AMO) 2017 "
+                android:textColor="#000000" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/image"
+                android:src="@drawable/ic_today_black_24dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginLeft="6dp" />
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="60dp"
+                android:layout_toRightOf="@+id/image"
+                android:text="10 November 2017"
+                android:textColor="#000000"
+                android:textSize="10dp" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/image"
+                android:src="@drawable/ic_access_time_black_24dp"
+                android:layout_marginTop="80dp"
+                android:layout_marginLeft="6dp" />
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="80dp"
+                android:layout_toRightOf="@+id/image"
+                android:text="16:31"
+                android:textColor="#000000"
+                android:textSize="10dp" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/image"
+                android:src="@drawable/ic_local_offer_black_24dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginLeft="6dp"/>
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="100dp"
+                android:layout_toRightOf="@+id/image"
+                android:text="Dipublikasikan oleh AMO"
+                android:textColor="#000000"
+                android:textSize="10dp" />
+        </RelativeLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cardView">
+            <RelativeLayout
+                android:id="@+id/menu1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:background="#4e8b4ddc">
+                <ImageButton
+                    android:id="@+id/image"
+                    android:layout_width="200dp"
+                    android:layout_height="150dp"
+                    android:background="#8b4ddc"
+                    android:src="@drawable/dua"
+                    />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="Kegiatan Belajar Bareng D3 TI Bersama HIMADITI"
+                    android:textColor="#000000" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_today_black_24dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="03 November 2017"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_access_time_black_24dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="11:00"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_local_offer_black_24dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_marginLeft="6dp"/>
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="Dipublikasikan oleh HIMADITI"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cardView">
+            <RelativeLayout
+                android:id="@+id/menu1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:background="#4e8b4ddc">
+                <ImageButton
+                    android:id="@+id/image"
+                    android:layout_width="200dp"
+                    android:layout_height="150dp"
+                    android:background="#8b4ddc"
+                    android:src="@drawable/amofix"
+                    />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="First Meet Amikom Music Organization (AMO) 2017 "
+                    android:textColor="#000000" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_today_black_24dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="10 November 2017"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_access_time_black_24dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="16:31"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_local_offer_black_24dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_marginLeft="6dp"/>
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="Dipublikasikan oleh AMO"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cardView">
+            <RelativeLayout
+                android:id="@+id/menu1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:background="#4e8b4ddc">
+                <ImageButton
+                    android:id="@+id/image"
+                    android:layout_width="200dp"
+                    android:layout_height="150dp"
+                    android:background="#8b4ddc"
+                    android:src="@drawable/amofix"
+                    />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="First Meet Amikom Music Organization (AMO) 2017 "
+                    android:textColor="#000000" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_today_black_24dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="10 November 2017"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_access_time_black_24dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="16:31"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_local_offer_black_24dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_marginLeft="6dp"/>
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="Dipublikasikan oleh AMO"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cardView">
+            <RelativeLayout
+                android:id="@+id/menu1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:background="#4e8b4ddc">
+                <ImageButton
+                    android:id="@+id/image"
+                    android:layout_width="200dp"
+                    android:layout_height="150dp"
+                    android:background="#8b4ddc"
+                    android:src="@drawable/amofix"
+                    />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="First Meet Amikom Music Organization (AMO) 2017 "
+                    android:textColor="#000000" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_today_black_24dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="10 November 2017"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_access_time_black_24dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="6dp" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="16:31"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:src="@drawable/ic_local_offer_black_24dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_marginLeft="6dp"/>
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_toRightOf="@+id/image"
+                    android:text="Dipublikasikan oleh AMO"
+                    android:textColor="#000000"
+                    android:textSize="10dp" />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

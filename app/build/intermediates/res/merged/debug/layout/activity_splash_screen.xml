@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.ervin.kabarkomunitas.SplashScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ini" />
+
+
+        <Button
+            android:id="@+id/sub"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Kabar Komunitas"
+            android:textColor="@color/ungu"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:background="@drawable/awal"
+            android:layout_weight="0.02" />
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

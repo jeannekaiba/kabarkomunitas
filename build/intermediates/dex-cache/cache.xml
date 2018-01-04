@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\3d87d12ac219e23fde1232d96f90a1e5376077d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_07349311ca81d6fbb7eeac3da0080bfea7ad4afc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\88a22f16b7ed246d1005994ce690f61c596c0286\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_94b5469efa25d949b7cbd4fcaa1d4f9a6b2f15bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\5a1129db56e51c83785ff5da4157a60ff08526a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_3e666c4bfb4932c6dd366e7dc6ce410c73b6d5fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\183a4257c85ff0460daea197c80e185592d94e9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_0746ee7d64aa4f3bce4924c9b4a717e2659d8269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\18b7b4ee775f2f27b054b6367462e67911e87e00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_ec3efe733ce730a4e9b87dd73ffd47ec4bc472f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\glide-3.7.0_c3d1b2388926c38f3fc40aadfa154272ba27ac73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cbf49fbf04fb6128ad9b21244d1bac735d34e639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\02441c009e2dc23f0f30d0dce7262a8a506fcf39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_b505ad2d9c2796100399c2c0d12062ac43a312bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\da1a60f8cbaba56d4426bdb32863c1ec091574a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_510b9e17bc7b14a7878a16ed9619fda11a99e91f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\a21c2d739856a436845908719f5086cad827bfcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_bf52d9a6bf875002eb4d219f1a182f2765783314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\886b68d7552bfe39b7f8ab78f56e5c294e69e783\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_7bc55d12dee99501c1fe1e47237d450143066951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\3a596a9687a0f9fcf4254f888c376e8da0a643df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_76278d34c772758ce882c909a0e19c070ad9c98e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\a56050453b441268b6d7525b4e66dcf89e393266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_a0818818e1b7c78dfec1e785202a4acdd1b967f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\6a4362f934bf9765dd0e9e97aeae7f6f62242a24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_b89430e3e33890f2c96a85092e08094cdde25aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\0b9af83944da5542646bea7c1f4686ee4cda9ba9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_d8f29951dc065b72f5835aafd934811b6c9d608a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\c2fd92b270a320baa4e162efd74e133890d34ecd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_b53edd377b937c9b66b1ee67c3f97b763ae5d1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\02e31645deda5b911572482d226fd2105b439594\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_5dd32696189d41428b96ec31b99180faaafb004a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\348a3f5a9064fd601cd129de000c217141ea8e93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_4885ec9572ad226c058b2a955816b575410c0d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\c83689ff62510fc1fad4a640df9fd04f66709ae4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_9b9938c2a34976eea02d4c2ba55f28941d3e5359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\4dfba8173a7adb06e949edfbc17aef0191f18074\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_23f093255b5b5e74a02c5c29afb9370852299454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\38fc8108ed4737827a9aafd7aaa75a85bec725bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_8864158cc43bddcce1f196905719e0e9faa7a1f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\372c2551d7e24a713fa2505003f5d63cfd51780b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_bbbf388f4804124ddc0401f83b3f953a9f796e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\cda17337e8dc5867472402b309c0e79d16dc2cc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_4856107924629507220b2fb3a002c34e18f52dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\3ed810d8d76f5118e6d8da632ca7ccd90e640716\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_0de6ef216a0c02ce4e5158ecfd8b085ed8171181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\895c13dec47084412327b3fa9f41e07c719190c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_f8a3a302f36f040ce65be5728adb48d7579d4294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSI\.android\build-cache\0e0cd59a96a2a041562d3c4a31f304069ab4328d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android\KabarKomunitas\app\build\intermediates\pre-dexed\debug\classes_1d2c5713bdc3ce57425e87ff3d48b9030c7fda79.jar" />
+    </item>
+
+</items>

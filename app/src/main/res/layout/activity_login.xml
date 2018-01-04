@@ -7,28 +7,38 @@
     android:orientation="vertical"
     tools:context="com.example.ervin.kabarkomunitas.LoginActivity">
 
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="e-mail"
-            android:id="@+id/email"/>
+
+    <ProgressBar
+        android:id="@+id/pb_signin_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"/>
 
     <EditText
+        android:id="@+id/et_login_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:hint="e-mail" />
+
+    <EditText
+        android:id="@+id/et_login_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="password"
-        android:id="@+id/psw"/>
+        android:inputType="textPassword" />
 
     <Button
+        android:id="@+id/btn_login_signin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login"
-        android:id="@+id/login"/>
+        android:text="Login" />
 
     <Button
+        android:id="@+id/btn_login_signup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Signup"
-        android:id="@+id/signup"/>
+        android:text="Signup" />
 
 </LinearLayout>

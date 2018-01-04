@@ -7,22 +7,30 @@
     android:orientation="vertical"
     tools:context="com.example.ervin.kabarkomunitas.SignupActivity">
 
+    <ProgressBar
+        android:id="@+id/pb_signup_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"/>
     <EditText
+        android:id="@+id/et_signup_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="e-mail"
-        android:id="@+id/signupemail"/>
+        android:inputType="textEmailAddress"
+        android:hint="e-mail" />
 
     <EditText
+        android:id="@+id/et_signup_password"
+        android:inputType="textPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="password"
-        android:id="@+id/signuppsw"/>
+        android:hint="password" />
 
     <Button
+        android:id="@+id/btn_signup_signup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Signup"
-        android:id="@+id/btnsignup"/>
+        android:text="Signup" />
 
 </LinearLayout>
